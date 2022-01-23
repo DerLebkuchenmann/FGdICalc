@@ -4,7 +4,12 @@ It is intended to do calculations required in Formal Foundations of Computer Sci
 
 Copyright (C) 2022 Darius Hahn
 
-The main is located in FGDI_CALC.java
+## Running the program
+You have two options:
+- Run the .jar file
+- compile the program yourself from the source files, the main is located in FGDI_CALC.java
+
+## License
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
