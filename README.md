@@ -1,6 +1,6 @@
 # FGdICalc
 This software was created by Darius Hahn.
-It is intended to do calculations required in Formal Foundations of Computer Science at the Univeristy of Mannheim.
+It is intended to do calculations required in Formal Foundations of Computer Science at the University of Mannheim.
 
 Copyright (C) 2022 Darius Hahn
 
