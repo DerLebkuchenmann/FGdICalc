@@ -3,7 +3,7 @@ package fgdiCalculator.gui;
 class Info {
 	static String getInfoText() {
 		return ("This software was created by Darius Hahn.\n"
-				+ "It is intended to do calculations required in Formal Foundations of Computer Science at the Univeristy of Mannheim.\n"
+				+ "It is intended to do calculations required in Formal Foundations of Computer Science at the University of Mannheim.\n"
 				+ "\n"
 				+ "Copyright (C) 2022 Darius Hahn\n"
 				+ "\n"
