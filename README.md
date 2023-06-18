@@ -7,7 +7,7 @@ Copyright (C) 2022 Darius Hahn
 ## Running the program
 You have two options:
 - Run the .jar file
-- compile the program yourself from the source files, the main is located in FGDI_CALC.java
+- compile the program yourself from the source files, the main is located in src/fgdiCalculator/FGDI_CALC.java
 
 ## License
 
