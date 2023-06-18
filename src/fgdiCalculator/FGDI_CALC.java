@@ -1,7 +1,7 @@
-package fgdiCalculator.gui;
+package fgdiCalculator;
 
 public class FGDI_CALC {
 	public static void main(String[] args) {
-		GUI.createGUI();
+		fgdiCalculator.gui.GUI.createGUI();
 	}
 }
